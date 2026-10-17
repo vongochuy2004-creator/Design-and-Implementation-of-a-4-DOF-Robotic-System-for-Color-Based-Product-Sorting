@@ -1,5 +1,5 @@
 # 4-DOF Robotic System for Color-Based Product Sorting
-
+https://www.youtube.com/watch?v=MfklGDZpCLw
 ## Overview
 
 This project presents a 4-DOF robotic pick-and-place system designed to automatically sort products by color on a conveyor belt. The system integrates a Dobot Magician robotic arm with a linear sliding rail, a computer vision module based on YOLOv11, Arduino-based motion control, and a PyQt5 human-machine interface (HMI).
